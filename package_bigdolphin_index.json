@@ -16,7 +16,7 @@
           "architecture": "samd",
           "version": "1.6.16",
           "category": "Contributed",
-          "url": "https://github.com/lamqhoang/M0bootloader/raw/master/Dolphin-1.0.0.zip",
+          "url": "https://github.com/bigdolphin/BigDolphinZero/raw/master/Dolphin-1.0.0.zip",
           "archiveFileName": "Dolphin-1.0.0.zip",
           "checksum": "SHA-256:EA093413651A7FBE3D1AAD79F92CF1FF55DF04BFD7931E0B77B4D168480470BF",
           "size": "1097814",
