@@ -14,10 +14,10 @@
         {
           "name": "Big Dolphin Zero Boards",
           "architecture": "samd",
-          "version": "1.6.16",
+          "version": "1.8.3",
           "category": "Contributed",
-          "url": "https://github.com/bigdolphin/bigZero/raw/master/bigZero-1.1.0.zip",
-          "archiveFileName": "bigZero-1.1.0.zip",
+          "url": "https://github.com/bigdolphin/bigZero/raw/master/bigZero.zip",
+          "archiveFileName": "bigZero.zip",
           "checksum": "SHA-256:9CFDF578794E000A8175AB6F45EC5D80AC99BB36CE135AD6468E42ADA2D9189B",
           "size": "1085195",
           "boards": [
