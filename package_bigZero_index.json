@@ -18,8 +18,8 @@
           "category": "Contributed",
           "url": "https://github.com/bigdolphin/bigZero/raw/master/bigZero.zip",
           "archiveFileName": "bigZero.zip",
-          "checksum": "SHA-256:f7f4021cc4e61c2271b70f2c235f7172318418e21cce53eb8e82c72b17a82a75",
-          "size": "1668261",
+          "checksum": "SHA-256:b0c9adcb00fa1a6d5fc5b7b54e899f9e64440a8ef1655f5fd6f0273b0824c8d4",
+          "size": "1679941",
           "boards": [
     {
       "name": "bigZero"
@@ -46,6 +46,11 @@
               "packager": "arduino",
               "name": "CMSIS",
               "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
             }
           ]
         }
