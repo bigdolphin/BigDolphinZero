@@ -2,7 +2,7 @@
   "packages":
   [
     {
-      "name": "bigZero",
+      "name": "arduino",
       "maintainer": "Big Dolphin",
       "websiteURL": "http://bigdolphin.com.vn",
       "help":
@@ -18,15 +18,14 @@
           "category": "Contributed",
           "url": "https://github.com/bigdolphin/bigZero/raw/master/bigZero.zip",
           "archiveFileName": "bigZero.zip",
-          "checksum": "SHA-256:b0c9adcb00fa1a6d5fc5b7b54e899f9e64440a8ef1655f5fd6f0273b0824c8d4",
-          "size": "1679941",
+          "checksum": "SHA-256:c0d89dbb2c51d1cacb3bfb33ad0d589a8a40a65d7a955d3e23a7f242830fb204",
+          "size": "1662599",
           "boards": [
-    {
-      "name": "bigZero"
-    }          
-    ],
-          "toolsDependencies":
-          [
+			{
+			  "name": "bigZero"
+			}          
+		  ],
+          "toolsDependencies": [
             {
               "packager": "arduino",
               "name": "arm-none-eabi-gcc",
