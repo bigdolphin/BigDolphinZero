@@ -18,8 +18,8 @@
           "category": "Contributed",
           "url": "https://github.com/bigdolphin/bigZero/raw/master/bigZero.zip",
           "archiveFileName": "bigZero.zip",
-          "checksum": "SHA-256:0a54510b6832178a89a85699a90e8261c7ab95c6d3e07347f10ec024c5972b0d",
-          "size": "1667319",
+          "checksum": "SHA-256:6e71b6600f6886a412ea7cf48043b564da0027ada1e2763850e8b67b9b119b2a",
+          "size": "1680015",
           "boards": [
 			{
 			  "name": "bigZero"
